@@ -1,5 +1,7 @@
 .App {
+  margin: 10px;
   text-align: center;
+  border: solid black 10px;
 }
 
 .App-logo {
@@ -35,4 +37,22 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.innerApp{
+  margin: 30px;
+  display: grid;
+
+  grid-template-columns: 65% 1fr;
+  grid-template-rows: 25% 1fr;
+
+  height: 90vh;
+  border: solid black 10px;
+  border-radius: 150px
+
+}
+
+.mainComp{
+  border: solid black ;
+
 }
