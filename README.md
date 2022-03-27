@@ -37,9 +37,9 @@ The Project itself was deployed and can be viewed [here](https://github.com/Grah
  ![image](https://media0.giphy.com/media/GOr6oFOStQHr8Ns3br/giphy.gif?cid=790b761122a329d76d7ab1eeb309aaf5afa14be732e90bc9&rid=giphy.gif&ct=g)
  ***
  ### ***Task List***
- - [ ] ~~SetUp Layout~~
-- [x] Setup Gear switch!
-- [x] Setup friends screen!
+ - [x] ~~SetUp Layout~~
+- [] Setup Gear switch!
+- [] Setup friends screen!
 <!-- - [x] Completed Update
 - [x] ~~Strikethrough~~ Items Also -->
 ***
