@@ -20,7 +20,7 @@ function Main() {
 function Newsfeed() {
   return (
     <div className="newsfeed">
-      <h1>NEWS FEED</h1>
+      <h1 className="heading">NEWS FEED</h1>
     </div>
   );
 }
@@ -28,7 +28,7 @@ function Newsfeed() {
 function Store() {
   return (
     <div className="storeComp">
-      <h1>STORE</h1>
+      <h1 className="heading">STORE</h1>
     </div>
   );
 }

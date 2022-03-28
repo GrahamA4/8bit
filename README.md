@@ -6,16 +6,18 @@
 [LinkedIn](https://www.linkedin.com/in/abraham-graham-478458233)
 ***
 ### ***Description***
-*In this project i will be working towards creating a fun Game Launcher REACT/JAVASCRIPT/HTML/CSS*
+*In this project i will be working towards creating a fun Game Launcher*
 
 ![image](https://media2.giphy.com/media/uzpjgAYcspoLqcXUlT/giphy.gif?cid=ecf05e475xiofb9737pwpbdrunix2oo14ha3bfmbmdqkw9q8&rid=giphy.gif&ct=g)
 ***
 ### ***Technologies Used***
-<!-- * Item 1
-* Item 2
-  * Sub-item
+* React
+* Javascript
+* HTML
+* CSS
+  <!-- * Sub-item -->
 
-1. Item 1
+<!-- 1. Item 1
 2. Item 2
   * Sub-item -->
 ***
@@ -28,7 +30,7 @@ The Project itself was deployed and can be viewed [here](https://github.com/Grah
 
 ***
 ### ***Screenshots***
-*When you get hit with a reverse*
+*When you forget to commit and you have errors*
 
  ![image](https://64.media.tumblr.com/26a6857694c89cb876048ddb0afbb687/6acccee7a7c24e93-41/s400x600/79390a247ba923ada7c4bb24f715917bf5463304.gifv)
 
@@ -38,8 +40,8 @@ The Project itself was deployed and can be viewed [here](https://github.com/Grah
  ***
  ### ***Task List***
  - [x] ~~SetUp Layout~~
-- [] Setup Gear switch!
-- [] Setup friends screen!
+- [ ] Setup Gear switch!
+- [ ] Setup friends screen!
 <!-- - [x] Completed Update
 - [x] ~~Strikethrough~~ Items Also -->
 ***

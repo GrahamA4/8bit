@@ -1,0 +1,23 @@
+.mainComp{
+    display: flex;
+    justify-content: center;
+
+
+
+    background-color: yellow;
+    border: solid black 5px;
+    border-top-left-radius: 200px;
+
+}
+
+
+.heading{
+    color: black;
+    border: solid black 10px;
+    border-radius: 20px;
+    width: 250px;
+}
+
+
+
+
