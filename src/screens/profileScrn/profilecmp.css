@@ -1,0 +1,53 @@
+.prflcmp{
+    background-color:cadetblue;
+    border: solid black 5px;
+    border-top-right-radius: 200px;
+    display: grid;
+    grid-template: 1% repeat(5, 1fr) / 33% repeat(4, 1fr);
+
+    font-weight: bolder;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+
+
+#picturecmp{
+    color: white; 
+    grid-row-start: 3;
+    
+}
+
+
+#namecmp{
+    grid-column: 2;
+    grid-row-start: 3;
+    padding-top: 35px;
+
+}
+#symbol{
+    
+
+    grid-column: 3;
+    grid-row-start: 3;
+    padding-top: 33px;
+
+}
+
+#pointscmp{
+
+    grid-column: 4;
+    grid-row-start: 3;
+    padding-top: 35px;
+
+}
+
+
+#pic{
+    width: 55px;
+    height: auto;
+    border: solid black 6px;
+    outline: solid white 1px;
+    background-color: white;
+    border-radius: 100px;
+}
