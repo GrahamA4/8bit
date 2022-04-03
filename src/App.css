@@ -1,7 +1,12 @@
+body{
+  background-color: #282c34;
+}
+
 .App {
-  margin: 10px;
-  text-align: center;
   border: solid black 10px;
+  display: grid;
+  margin-top: 3vh;
+
 }
 
 .App-logo {
@@ -15,16 +20,6 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
 .App-link {
   color: #61dafb;
@@ -39,15 +34,35 @@
   }
 }
 
-.innerApp{
-  margin: 30px;
-  display: grid;
+.table{
+  background-color: gray;
+  width: 50vw;
+  height: 60vh;
+  margin-left: 25vw;
+  margin-top: 12vh;
+  margin-bottom: 12vh;
+}
 
-  grid-template-columns: 65% 1fr;
-  grid-template-rows: 25% 1fr;
 
-  height: 90vh;
-  border: solid black 10px;
-  border-radius: 150px
+.one{
+  background-color: rgba(0, 0, 0, 0.4);
+  border: solid black 1px;
+  width: 40vw;
+  height: 60vh;
+
+  margin-left: 10vw;
+  margin-top: -80VH;
+
+}
+
+.two{
+  background-color: rgba(0, 0, 0, 0.4);
+  border: solid black 1px;
+  width: 40vw;
+  height: 60vh;
+
+  margin-left: 48vw;
+  margin-top: -55vh;
+  margin-bottom: 3vh;
 
 }

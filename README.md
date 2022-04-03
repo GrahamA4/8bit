@@ -34,13 +34,13 @@ The Project itself was deployed and can be viewed [here](https://github.com/Grah
 
  ![image](https://64.media.tumblr.com/26a6857694c89cb876048ddb0afbb687/6acccee7a7c24e93-41/s400x600/79390a247ba923ada7c4bb24f715917bf5463304.gifv)
 
- *There will be ScreenShots soon!*
+ *ScreenShots!*
 
  ![image](https://media0.giphy.com/media/GOr6oFOStQHr8Ns3br/giphy.gif?cid=790b761122a329d76d7ab1eeb309aaf5afa14be732e90bc9&rid=giphy.gif&ct=g)
  ***
  ### ***Task List***
  - [x] ~~SetUp Layout~~
-- [ ] Setup Gear switch!
+- [x] Setup newsFeed Layout!
 - [ ] Setup friends screen!
 <!-- - [x] Completed Update
 - [x] ~~Strikethrough~~ Items Also -->

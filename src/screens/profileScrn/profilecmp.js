@@ -1,11 +1,11 @@
 import './profilecmp.css';
 
-function Profilecmp() {
+function ProfileCMP() {
   return (
-    <div className="prflcmp">
+    <div className="prfl">
       <Picture />
       <Name />
-      <div id="symbol">'T'</div>
+      <div id="symbol">`T`</div>
       <Points />
     </div>
   );
@@ -13,7 +13,7 @@ function Profilecmp() {
 
 function Picture() {
   return (
-    <div id="picturecmp">
+    <div id="pictureContainer">
       <img
         id="pic"
         src={
@@ -25,11 +25,11 @@ function Picture() {
 }
 
 function Name() {
-  return <div id="namecmp">name</div>;
+  return <div id="name">Name</div>;
 }
 
 function Points() {
-  return <div id="pointscmp">points</div>;
+  return <div id="points">12,000</div>;
 }
 
-export default Profilecmp;
+export default ProfileCMP;

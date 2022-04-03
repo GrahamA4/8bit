@@ -1,5 +1,47 @@
-.news{
-    border: solid black 5px;
-    border-bottom-left-radius: 120px;
-    background-color: white;
+.newsfeed{
+
+
+
+
+
+    display: grid;
+    margin-top: -20vh;
+
 }
+
+
+
+
+.news{
+    width: 20vw;
+    height: 35vh;
+
+
+    border: solid black 5px;
+    background-color: dimgray;
+    margin-right: 6vw;
+    margin-left: -6vw;
+    grid-area: 1/1;
+    margin-top: 11vh;
+    margin-bottom: -20vh;
+
+
+}
+
+
+.reels{
+    width: 20vw;
+    height: 35vh;
+    border: solid black 5px;
+    background-color: dimgray;
+    grid-area: 2/2;
+
+    margin-top: 5vh;
+    margin-bottom: -5vh;
+    margin-left: -23vw;
+
+
+}
+
+
+
