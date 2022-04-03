@@ -1,11 +1,12 @@
-import './headingcmp.css';
+import './feedHeading.css';
+import feed from './feed.gif';
 
 let showing = [
   { feed: <NewsfeedHead />, state: true, ID: 1 },
   { feed: <StoreHead />, state: false, ID: 2 }
 ];
 
-function HeadingCMP() {
+function Heading() {
   return showing.map((item) => {
     if (item.state == true) {
       return (
@@ -20,7 +21,10 @@ function HeadingCMP() {
 function NewsfeedHead() {
   return (
     <div>
-      <h1 className="title">NEWS FEED</h1>
+      <div className="title">
+        Feed
+        <img src={feed} className="feedGif" />
+      </div>
     </div>
   );
 }
@@ -33,4 +37,4 @@ function StoreHead() {
   );
 }
 
-export default HeadingCMP;
+export default Heading;

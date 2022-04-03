@@ -1,7 +1,7 @@
 .prfl{
     background-color: black;
     border: solid black 5px;
-    border-radius: 8vw;
+    border-radius: 50%;
     display: grid;
     grid-template: 10% 1fr / 30% 1fr ;
     width: 20vw;
@@ -10,6 +10,8 @@
     font-weight: bolder;
 
     color: white;
+    box-shadow: 4px 10px 20px 1px rgba(5, 5, 206, 0.4);
+
 
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     margin-left: 38vw;
@@ -22,6 +24,7 @@
     color: white; 
     grid-area: 2/1;
     margin-left: 1vw;
+    margin-top: -0.6vh;
 
 
 }

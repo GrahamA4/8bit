@@ -7,6 +7,8 @@
     display: grid;
     margin-top: -20vh;
 
+
+
 }
 
 
@@ -15,10 +17,14 @@
 .news{
     width: 20vw;
     height: 35vh;
-
+    font-size: 4vmax;
 
     border: solid black 5px;
-    background-color: dimgray;
+    box-shadow: 4px 10px 20px 1px rgba(5, 5, 206, 0.4);
+    border-radius: 3%;
+
+
+    background-color: rgba(136, 136, 136, 1);
     margin-right: 6vw;
     margin-left: -6vw;
     grid-area: 1/1;
@@ -33,7 +39,13 @@
     width: 20vw;
     height: 35vh;
     border: solid black 5px;
-    background-color: dimgray;
+    box-shadow: 4px 10px 20px 1px rgba(5, 5, 206, 0.4);
+    background-color: rgba(136, 136, 136, 1);
+    border-radius: 3%;
+
+
+
+
     grid-area: 2/2;
 
     margin-top: 5vh;
